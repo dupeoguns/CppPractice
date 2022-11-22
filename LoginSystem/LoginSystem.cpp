@@ -7,6 +7,8 @@ int main()
     login new_login;
 
     new_login.Menu();
+    
+    cout << "hello world";
 
 }
 
